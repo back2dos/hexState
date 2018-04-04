@@ -2,7 +2,6 @@ package hex.state.control;
 
 import hex.control.Request;
 import hex.control.async.IAsyncCommand;
-import hex.control.command.ICommandMapping;
 import hex.di.IBasicInjector;
 import hex.error.IllegalStateException;
 import hex.event.MessageType;
